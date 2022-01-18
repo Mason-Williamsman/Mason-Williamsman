@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Mason-Williamsman
-- 👀 I’m interested in  is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript 
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on interesting open source projects
-- 📫 feel free to reach me here on GH
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
 
-<!---
-Mason-Williamsman/Mason-Williamsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
